@@ -1,4 +1,15 @@
+first_number = 7
+second_number = 14
 
+sum = first_number + second_number
+
+puts sum
+
+def greet_user(Saudia)
+  puts "hello, #{Saudia}"
+  end
+end
+  
 Hi! 👋
 
 You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
